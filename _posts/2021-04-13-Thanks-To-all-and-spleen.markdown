@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Thanks to all……………………….. and spleen"
-subtitle:   " First time "
-date:       2025-03-26 12:28:00
+subtitle:   ""
+date:       2021-04-13 12:20:00
 author:     "Gurpreet Singh Battu"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
